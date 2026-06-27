@@ -107,9 +107,6 @@ Interactive dashboard created to visualize key metrics:
 
 ## 🖼 Dashboard Preview
 
-<p align="center">
-  <img src="dashboard_preview.png" width="800">
-</p>
 ![Sleep Health and Lifestyle Dashboard](dashboard.png)
 ---
 
